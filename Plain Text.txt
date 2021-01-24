@@ -5,3 +5,5 @@ m1
 
 b1
 >>>>>>> branch1
+
+branch2

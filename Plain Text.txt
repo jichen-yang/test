@@ -6,6 +6,6 @@ m1 m2
 b1
 >>>>>>> branch1
 
-branch2 changes1 b2
+branch2 changes1 b2 b3
 
 m1 m2

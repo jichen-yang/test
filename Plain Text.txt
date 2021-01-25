@@ -8,4 +8,4 @@ b1
 
 branch2 changes1 b2 b3 b4cola b5 b6gitg b7gitg2 b8gitg b9smartgit
 
-m1 m2 m3cola m4gitg m5smartgit
+m1 m2 m3cola m4gitg m5smartgit m6

@@ -8,4 +8,4 @@ b1
 
 branch2 changes1 b2
 
-m1
+m1 m2
